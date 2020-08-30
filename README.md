@@ -1,1 +1,1 @@
-# BBNORM-PARIS
+# BBNORM-PARIS (CONTES project)
