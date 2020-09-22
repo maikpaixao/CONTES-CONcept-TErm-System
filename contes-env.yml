@@ -48,7 +48,6 @@ dependencies:
   - zlib=1.2.11=ha838bed_2
   - pip:
     - drmaa==0.7.8
-    - bz2file=0.98=py36_0
     - mwparserfromhell==0.5.2
     - pronto==0.10.2
     - scikit-learn==0.19.1
