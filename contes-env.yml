@@ -6,7 +6,6 @@ dependencies:
   - boto=2.48.0=py36h6e4cd66_1
   - boto3=1.5.32=py36_0
   - botocore=1.8.46=py36_0
-  - bz2file=0.9=py36_0
   - ca-certificates=2018.03.07=0
   - certifi=2018.4.16=py36_0
   - cffi=1.11.5=py36h9745a5d_0
@@ -49,6 +48,7 @@ dependencies:
   - zlib=1.2.11=ha838bed_2
   - pip:
     - drmaa==0.7.8
+    - bz2file=0.98=py36_0
     - mwparserfromhell==0.5.2
     - pronto==0.10.2
     - scikit-learn==0.19.1
