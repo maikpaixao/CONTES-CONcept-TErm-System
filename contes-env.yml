@@ -1,4 +1,6 @@
 name: contesenv
+envs_dirs:
+  - /work_home/mlpaixao
 channels:
   - defaults
 dependencies:
